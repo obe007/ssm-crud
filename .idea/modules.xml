@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ssm-crud (1).iml" filepath="$PROJECT_DIR$/ssm-crud (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.atguigu/ssm-crud/ssm-crud (2).iml" filepath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.atguigu/ssm-crud/ssm-crud (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.atguigu/ssm-crud/ssm-crud (3) (com.atguigu).iml" filepath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.atguigu/ssm-crud/ssm-crud (3) (com.atguigu).iml" />
+    </modules>
+  </component>
+</project>
